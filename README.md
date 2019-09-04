@@ -1,4 +1,4 @@
-# 1408 Eminfo
+# 1408
 Gabriel Durante e Guilherme Guimarães
 
 # 2808
